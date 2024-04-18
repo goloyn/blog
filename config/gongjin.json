@@ -1,0 +1,16 @@
+{
+    "filter": [
+        "公众号",
+        "神秘的哥哥们",
+        "|",
+        "｜",
+        "防失联",
+        "关注",
+        "【",
+        "】",
+        "┃ "
+    ],
+    "prefix": "★公瑾TV★",
+    "band": "关注「插兜的干货仓库」",
+    "source": "https://gitee.com/bestpvp/source/raw/master/source/stable/main.json"
+}
